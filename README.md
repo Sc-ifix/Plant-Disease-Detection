@@ -11,3 +11,4 @@ Dataset: PlantVillage
 https://helpful-sjerlhe.peachworlds.com/
 
 Note: Training data had images in a certain condition and lighting, online images outside these conditions may not work properly
+Project based on ResNet9
